@@ -1,0 +1,12 @@
+.DS_Store
+._*
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+work/
+outputs/
+tests/
+assets/style-examples/*
+!assets/style-examples/README.md
